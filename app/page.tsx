@@ -6,10 +6,9 @@ import HeroSection from '@/components/hero-section'
 import IntegrationsSection from '@/components/integrations-8'
 import StatsSection from '@/components/stats-4'
 import TeamSection from '@/components/team'
-import { Content } from 'next/font/google'
 import React from 'react'
 
-export default function 
+export default function Page
 () {
   return (
     <div>
